@@ -7,3 +7,7 @@ SQL Server instalado y en ejecución.
 Visual Studio (o cualquier IDE C# compatible).
 .NET Framework instalado.
 Acceso a una instancia de SQL Server donde EjemploBDse creará la base de datos.
+Crear la base de datos
+-- Crear la base de datos CREATE DATABASE HardwareTienda;
+
+-- Utilice el querry de creacion para esto
